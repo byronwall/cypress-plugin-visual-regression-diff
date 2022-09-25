@@ -1,3 +1,4 @@
+/* c8 ignore start */
 const PLUGIN_NAME = "cp-visual-regression-diff";
 export const LINK_PREFIX = `#${PLUGIN_NAME}-`;
 export const OVERLAY_CLASS = `${PLUGIN_NAME}-overlay`;
@@ -17,3 +18,4 @@ export const TASK = {
 };
 
 export const METADATA_KEY = "FRSOURCE_CPVRD_V";
+/* c8 ignore stop */
